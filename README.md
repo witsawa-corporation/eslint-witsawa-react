@@ -2,7 +2,7 @@
 
 How to use
 
-- yarn add eslint-witsawa-react --dev
+- yarn add eslint-config-witsawa-react --dev
 - add the json in .eslintrc
 
 ```json
